@@ -6,6 +6,14 @@
 
 # PL-7008 Create agents in Microsoft Copilot Studio
 
+
+## Seminar 30.09.2026
+
+[Get the presentation](pdf/)
+
+<br>
+
+
 ## Modules 🚀
 
 - Module 1️: [Get started with Microsoft Copilot Studio][Module1]
