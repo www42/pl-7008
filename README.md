@@ -1,46 +1,52 @@
-[LP1]: https://foo
-[LP2]: https://bar
-
-# AZ-000 Azure foo bar
-
-## Learning Paths 🚀
-
-- Learning Path 1️: [Azure foo][LP1]
-- Learning Path 2️: [Azure bar][LP2]
+[Module1]: https://learn.microsoft.com/en-us/training/modules/power-virtual-agents-bots/
+[Module2]: https://learn.microsoft.com/en-us/training/modules/copilot-studio-topics/
+[Module3]: https://learn.microsoft.com/en-us/training/modules/copilot-studio-knowledge/
+[Module4]: https://learn.microsoft.com/en-us/training/modules/copilot-studio-structured-automation/
 
 
-## Labs 🛠️
+# PL-7008 Create agents in Microsoft Copilot Studio
+
+## Modules 🚀
+
+- Module 1️: [Get started with Microsoft Copilot Studio][Module1]
+- Module 2: [Design agent conversations using topics][Module2]
+- Module 3: [Build intelligent agents in Microsoft Copilot Studio][Module3]
+- Module 4: [Add structured automation to agents in Microsoft Copilot Studio][Module4]
+
 
 <!-- 
-[Lab environment Skillable](https://alh.learnondemand.net/) 
-[Lab environment Skillable](https://brainymotion.learnondemand.net/)
-[Lab environment Skillable](https://gknetherlands.learnondemand.net)
+## Labs 🛠️
 
--->
+[Lab environment Skillable](https://) 
 
-<!--
-[Lab environment Go Deploy](https://lms.godeploy.it)
--->
+1. Sign in with your Skillable account 
+2. Register with Training Key
+
+[Go Deploy](https://lms.godeploy.it)
 
 [GitHub Repo Microsoft Learn](https://github.com/foo)
 
-[Optional: Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/foo)
+[Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/foo)
+-->
 
 <br>
 
+## This Course on ▶️YouTube
 
-## Certification 🏅
-
-|   |   |
-| - | - |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-fundamentals-badge.svg" width="100"/> | [Microsoft Certified: Fundamentals](https://) |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg"    width="100"/> | [Microsoft Certified: Associate](https://) |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-expert-badge.svg"       width="100"/> | [Microsoft Certified: Expert](https://) |
-
-
-[Practice Assessment](https://)
+[PL-7008: Create agents in Microsoft Copilot Studio - YouTube](https://www.youtube.com/playlist?list=PLahhVEj9XNTfXWCLG1GPVbv5ZTv0-RL0t)
 
 <br>
+
+## Microsoft AI Certifications 🏅
+
+* [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) (AI-901)
+* [Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/) (AI-103)
+* [Microsoft Certified: AI Agent Builder Associate](https://learn.microsoft.com/en-us/credentials/certifications/ai-agent-builder-associate/) (AB-620)
+* [Microsoft Certified: Cloud and AI Security Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/) (SC-500)
+* [Microsoft Certified: Multi-Agent AI Solutions Expert](https://learn.microsoft.com/en-us/credentials/certifications/multi-agent-ai-solutions-expert/)
+
+<br>
+
 
 
 ## New: Microsoft Applied Skills 🎉
@@ -50,6 +56,8 @@
 [Applied Skills Poster](https://arch-center.azureedge.net/Credentials/microsoft-applied-skills-poster.pdf)
 
 [Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+
+[Microsoft Applied Skills: Build an agent in Microsoft Copilot Studio](https://learn.microsoft.com/en-us/credentials/applied-skills/build-an-agent-in-microsoft-copilot-studio/)
 
 <br>
 
@@ -69,52 +77,23 @@
 
 [How we built "Ask Learn", the RAG-based knowledge service](https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/)
 
-[Training for GitHub](https://learn.microsoft.com/en-us/training/github/)
 
 <br>
 
 ## Microsoft Documentation Landing Pages 📲
 
+[Official Microsoft Copilot Studio documentation](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
+
+[Microsoft Foundry documentation](https://learn.microsoft.com/en-us/azure/foundry/)
+
+[Microsoft Foundry Classic documentation](https://learn.microsoft.com/en-us/azure/foundry-classic/)
+
 [Azure documentation](https://learn.microsoft.com/en-us/azure/)
-
-[Azure Resource Manager documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/)
-
-[Bicep documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
-
-[Azure Policy documentation](https://learn.microsoft.com/en-us/azure/governance/policy/)
-
-[Microsoft Graph documentation](https://learn.microsoft.com/en-us/graph/)
-
-[Microsoft Defender for Cloud documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/)
-
-[Microsoft Defender XDR documentation](https://learn.microsoft.com/en-us/defender-xdr/)
-
-[Microsoft Sentinel documentation](https://learn.microsoft.com/en-us/azure/sentinel/)
-
-[Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/)
-
-[Kusto documentation](https://learn.microsoft.com/en-us/kusto/)
 
 [Microsoft Entra documentation](https://learn.microsoft.com/en-us/entra/)
 
-[Microsoft Entra ID Governance documentation](https://learn.microsoft.com/en-us/entra/id-governance/)
 
-[Microsoft cloud security benchmark](https://learn.microsoft.com/en-us/security/benchmark/azure/)
-
-[PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
-
-[Azure Command-Line Interface (CLI) documentation](https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
-
-[Azure Firewall documentation](https://learn.microsoft.com/en-us/azure/firewall/)
-
-[Azure DDoS Protection documentation](https://learn.microsoft.com/en-us/azure/ddos-protection/)
-
-[Microsoft Defender for Cloud documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/)
-
-[Microsoft Defender XDR documentation](https://learn.microsoft.com/en-us/defender-xdr/?source=recommendations)
-
-[Microsoft Sentinel documentation ](https://learn.microsoft.com/en-us/azure/sentinel/)
-
+[Microsoft Entra Agent ID documentation](https://learn.microsoft.com/en-us/entra/agent-id/)
 
 
 ## Useful Links 🤿
@@ -130,6 +109,8 @@
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/A8E4CC3EAA93F4C2?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-azure-solutions-architect-expert.png" width=100></a>
 <a href="https://www.credly.com/badges/2a1b8f81-8609-4e8f-85d7-dad4f21f84f6/public_url"><img src="https://download69118.blob.core.windows.net/anon/aws-certified-ai-practitioner.png" width=100></a>
 <a href="https://www.credly.com/badges/7f2c6c3e-d3e3-4e32-9299-adf3278948a3/public_url"><img src="https://download69118.blob.core.windows.net/anon/instructor-recognition-1-000-students-reached.png" width="100"/></a>
+<a href="https://openbadgefactory.com/obv3/credentials/100ab86177590f647b7e381789c02e200a9ef836"><img src="https://download69118.blob.core.windows.net/anon/etc Trainer 2026 Badge.png" width="110"></a>
+
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/C27BF4B9C4441987?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60 title="Microsoft Applied Skills: Secure storage for Azure Files and Azure Blob Storage"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/tjaekel/D285AC578545317A?sharingId=EBAFABC36CF6EBDC"><img src="https://download69118.blob.core.windows.net/anon/apl.png" width=60 title="Microsoft Applied Skills: Deploy and configure Azure Monitor"></a>
@@ -153,4 +134,4 @@
 
 ---
 
-[Top](#az-000-azure-foo-bar)
+[Top](pl-7008-create-agents-in-microsoft-copilot-studio)
